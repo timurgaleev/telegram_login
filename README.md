@@ -1,7 +1,7 @@
 Linux - login from the system - send a message msg telegram
 Send an alert message via a telegram for each input to the server
 
-Copy the files to / usr / bin
+Copy the files to /usr/bin
 
 Run the following commands to add the script to the logon file.
 
